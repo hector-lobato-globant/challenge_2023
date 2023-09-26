@@ -1,2 +1,5 @@
-##Globant challenges in 2023
-merge-sort-shopping-list
+# Globant challenges
+
+Resolved challenges
+
+-   merge-sort-shopping-list
